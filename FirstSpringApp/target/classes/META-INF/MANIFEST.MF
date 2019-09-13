@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: SpringApp
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Khan
+Implementation-Vendor-Id: io.java.springboot.app
+Build-Jdk: 1.8.0_211
+Implementation-URL: http://projects.spring.io/spring-boot/FirstSpringA
+ pp/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
