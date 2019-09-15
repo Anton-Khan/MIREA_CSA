@@ -1,1 +1,2 @@
-# MIREA_CSA
+SpringBoot application 
+Petshop
